@@ -48,6 +48,6 @@ In the above code the arguments represent:
 - the calibration id name: calib-sla-example
 - flag indicating calibration run: T
 - observed variable used to calculate the objective function: lai (more than one variable can be provided separated by comma. If so, make sure the units/magnitudes match!)
-- the statistical index used as objective function: rmse (available indexers are calculated in [mperf.py](https://github.com/Murilodsv/wrappy-jules/blob/main/get_model_perf/mperf.py). If d, r2 or ef are selected objective function becomes = 1 - <index>)
+- the statistical index used as objective function: rmse (available indexers are calculated in [mperf.py](https://github.com/Murilodsv/wrappy-jules/blob/main/get_model_perf/mperf.py). If d, r2 or ef are selected objective function becomes = 1 - stat_index)
 - the target parameters to be calibrated, including max-min ranges: [calibration_setup_sla.csv](https://github.com/Murilodsv/wrappy-jules/blob/main/calibration_setup_sla.csv)
 - flag indicating calibration run: T
