@@ -1,0 +1,33 @@
+variable,temp_var,file,namelist,type,array,array_id,prec,n_nl,val
+data_end,<data_end>,drive.nml,jules_drive,character,FALSE,1,0,0,'2005-12-31 21:00:00'
+data_period,<data_period>,drive.nml,jules_drive,integer,FALSE,1,0,0,10800
+data_start,<data_start>,drive.nml,jules_drive,character,FALSE,1,0,0,'2003-01-01 00:00:00'
+diff_frac_const,<diff_frac_const>,drive.nml,jules_drive,real,FALSE,1,4,0,0.4
+file,<file>,drive.nml,jules_drive,character,FALSE,1,0,0,'data/DRPC1001.dat'
+interp,<interp>,drive.nml,jules_drive,character,TRUE,1,0,0,'b'
+l_daily_disagg,<l_daily_disagg>,drive.nml,jules_drive,logical,FALSE,1,0,0,.false.
+l_imogen,<l_imogen>,drive.nml,jules_drive,logical,FALSE,1,0,0,.false.
+l_perturb_driving,<l_perturb_driving>,drive.nml,jules_drive,logical,FALSE,1,0,0,.false.
+nvars,<nvars>,drive.nml,jules_drive,integer,FALSE,1,0,0,8
+read_list,<read_list>,drive.nml,jules_drive,logical,FALSE,1,0,0,.false.
+t_for_con_rain,<t_for_con_rain>,drive.nml,jules_drive,real,FALSE,1,4,0,288.15
+t_for_snow,<t_for_snow>,drive.nml,jules_drive,real,FALSE,1,4,0,274.15
+tpl_name,<tpl_name>,drive.nml,jules_drive,character,FALSE,1,0,0,''
+var,<var>,drive.nml,jules_drive,character,TRUE,1,0,0,'sw_down'
+var_name,<var_name>,drive.nml,jules_drive,character,FALSE,1,0,0,''
+z1_tq_in,<z1_tq_in>,drive.nml,jules_drive,real,FALSE,1,4,0,2
+z1_tq_vary,<z1_tq_vary>,drive.nml,jules_drive,logical,FALSE,1,0,0,.false.
+interp,<interp>,drive.nml,jules_drive,character,TRUE,2,0,0,'b'
+var,<var>,drive.nml,jules_drive,character,TRUE,2,0,0,'lw_down'
+interp,<interp>,drive.nml,jules_drive,character,TRUE,3,0,0,'nb'
+var,<var>,drive.nml,jules_drive,character,TRUE,3,0,0,'precip'
+interp,<interp>,drive.nml,jules_drive,character,TRUE,4,0,0,'i'
+var,<var>,drive.nml,jules_drive,character,TRUE,4,0,0,'t'
+interp,<interp>,drive.nml,jules_drive,character,TRUE,5,0,0,'i'
+var,<var>,drive.nml,jules_drive,character,TRUE,5,0,0,'wind'
+interp,<interp>,drive.nml,jules_drive,character,TRUE,6,0,0,'i'
+var,<var>,drive.nml,jules_drive,character,TRUE,6,0,0,'pstar'
+interp,<interp>,drive.nml,jules_drive,character,TRUE,7,0,0,'i'
+var,<var>,drive.nml,jules_drive,character,TRUE,7,0,0,'q'
+interp,<interp>,drive.nml,jules_drive,character,TRUE,8,0,0,'b'
+var,<var>,drive.nml,jules_drive,character,TRUE,8,0,0,'diff_rad'
