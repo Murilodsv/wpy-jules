@@ -1,0 +1,15 @@
+&jules_soil_biogeochem
+const_ch4_cs=0,
+const_ch4_npp=0,
+const_ch4_resps=0,
+kaps=5.0E-09,
+l_layeredc=.false.,
+l_q10=.true.,
+l_soil_resp_lev2=.false.,
+q10_ch4_cs=7.4100E-12,
+q10_ch4_npp=9.9900E-03,
+q10_ch4_resps=4.3600E-03,
+q10_soil=2.0,
+soil_bgc_model=1,
+t0_ch4=273.15,
+/

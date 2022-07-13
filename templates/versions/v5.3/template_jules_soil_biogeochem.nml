@@ -1,0 +1,15 @@
+&jules_soil_biogeochem
+const_ch4_cs=<const_ch4_cs>,
+const_ch4_npp=<const_ch4_npp>,
+const_ch4_resps=<const_ch4_resps>,
+kaps=<kaps>,
+l_layeredc=<l_layeredc>,
+l_q10=<l_q10>,
+l_soil_resp_lev2=<l_soil_resp_lev2>,
+q10_ch4_cs=<q10_ch4_cs>,
+q10_ch4_npp=<q10_ch4_npp>,
+q10_ch4_resps=<q10_ch4_resps>,
+q10_soil=<q10_soil>,
+soil_bgc_model=<soil_bgc_model>,
+t0_ch4=<t0_ch4>,
+/

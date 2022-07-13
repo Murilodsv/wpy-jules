@@ -1,0 +1,11 @@
+&jules_initial
+const_val=0.0,0.0,273.15,12.1,0.0,50.0,0.1,0.1,273.15,0.0,0.7,
+dump_file=.false.,
+file='data/initial_sthuf_SC0072.dat',
+nvars=12,
+total_snow=.true.,
+tpl_name=12*'',
+use_file=.false.,.false.,.false.,.false.,.false.,.false.,.false.,.false.,.false.,.true.,
+var='years_since_harvest','canopy','tstar_tile','cs','gs','rgrain','lai','canht','t_soil','snow_tile','sthu_irr','sthuf',
+var_name=12*'',
+/

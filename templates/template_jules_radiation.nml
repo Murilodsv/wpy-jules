@@ -1,0 +1,11 @@
+&jules_radiation
+l_albedo_obs=<l_albedo_obs>,
+l_cosz=<l_cosz>,
+l_embedded_snow=<l_embedded_snow>,
+l_mask_snow_orog=<l_mask_snow_orog>,
+l_niso_direct=<l_niso_direct>,
+l_snow_albedo=<l_snow_albedo>,
+l_spec_alb_bs=<l_spec_alb_bs>,
+l_spec_albedo=<l_spec_albedo>,
+wght_alb=<wght_alb>,
+/

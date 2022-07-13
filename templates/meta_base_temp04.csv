@@ -1,0 +1,31 @@
+variable,temp_var,file,namelist,type,array,array_id,prec,n_nl,val
+nvars,<nvars>,ancillaries.nml,jules_crop_props,integer,F,1,0,0,4
+const_val,<const_val>,ancillaries.nml,jules_crop_props,real,T,3,4,0,<plan_doy>
+const_val,<const_val>,ancillaries.nml,jules_crop_props,real,T,4,4,0,<harv_doy>
+use_file,<use_file>,ancillaries.nml,jules_crop_props,logical,T,3,0,0,.false.
+use_file,<use_file>,ancillaries.nml,jules_crop_props,logical,T,4,0,0,.false.
+var,<var>,ancillaries.nml,jules_crop_props,character,T,3,0,0,'cropsowdate'
+var,<var>,ancillaries.nml,jules_crop_props,character,T,4,0,0,'croplatestharvdate'
+file,<file>,ancillaries.nml,jules_frac,character,F,1,0,0,'data/tile_fractions.dat'
+file,<file>,initial_conditions.nml,jules_initial,character,F,1,0,0,'data/initial_sthuf_<run_id>.dat'
+latitude,<latitude>,model_grid.nml,jules_latlon,real,F,1,4,0,<lat>
+longitude,<longitude>,model_grid.nml,jules_latlon,real,F,1,4,0,<lon>
+run_id,<run_id>,output.nml,jules_output,character,F,1,0,0,'<run_id>'
+output_start,<output_start>,output.nml,jules_output_profile,character,F,1,0,3,'2018-11-01 00:00:00'
+data_end,<data_end>,prescribed_data.nml,jules_prescribed_dataset,character,F,1,0,0,'2100-12-31 00:00:00'
+data_period,<data_period>,prescribed_data.nml,jules_prescribed_dataset,integer,F,1,0,0,-2
+data_start,<data_start>,prescribed_data.nml,jules_prescribed_dataset,character,F,1,0,0,'1961-01-01 00:00:00'
+file,<file>,prescribed_data.nml,jules_prescribed_dataset,character,F,1,0,0,'data/co2_NOAA_1961_2100.dat'
+interp,<interp>,prescribed_data.nml,jules_prescribed_dataset,character,F,1,0,0,'nf'
+is_climatology,<is_climatology>,prescribed_data.nml,jules_prescribed_dataset,logical,F,1,0,0,.false.
+nvars,<nvars>,prescribed_data.nml,jules_prescribed_dataset,integer,F,1,0,0,1
+read_list,<read_list>,prescribed_data.nml,jules_prescribed_dataset,logical,F,1,0,0,.false.
+tpl_name,<tpl_name>,prescribed_data.nml,jules_prescribed_dataset,character,F,1,0,0,''
+var,<var>,prescribed_data.nml,jules_prescribed_dataset,character,F,1,8,0,'co2_mmr'
+var_name,<var_name>,prescribed_data.nml,jules_prescribed_dataset,character,F,1,0,0,'co2_mmr'
+l_360,<l_360>,timesteps.nml,jules_time,logical,F,1,0,0,.false.
+main_run_end,<main_run_end>,timesteps.nml,jules_time,character,F,1,0,0,'2019-04-30 06:00:00'
+main_run_start,<main_run_start>,timesteps.nml,jules_time,character,F,1,0,0,'2018-09-01 06:00:00'
+print_step,<print_step>,timesteps.nml,jules_time,integer,F,1,0,0,48
+timestep_len,<timestep_len>,timesteps.nml,jules_time,integer,F,1,0,0,3600
+const_frac_irr,<const_frac_irr>,ancillaries.nml,jules_irrig,real,F,1,4,0,1

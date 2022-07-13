@@ -1,0 +1,14 @@
+&jules_soil
+confrac=<confrac>,
+dzsoil_elev=<dzsoil_elev>,
+dzsoil_io=<dzsoil_io>,
+l_bedrock=<l_bedrock>,
+l_dpsids_dsdz=<l_dpsids_dsdz>,
+l_soil_sat_down=<l_soil_sat_down>,
+l_vg_soil=<l_vg_soil>,
+sm_levels=<sm_levels>,
+soilhc_method=<soilhc_method>,
+zsmc=<zsmc>,
+zst=<zst>,
+l_holdwater=<l_holdwater>,
+/

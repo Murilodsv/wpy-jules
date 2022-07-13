@@ -1,0 +1,9 @@
+&jules_surface_types
+ice=<ice>,
+lake=<lake>,
+ncpft=<ncpft>,
+nnvg=<nnvg>,
+npft=<npft>,
+soil=<soil>,
+urban=<urban>,
+/

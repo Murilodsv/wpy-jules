@@ -1,0 +1,15 @@
+&jules_triffid
+alloc_fast_io=<alloc_fast_io>,
+alloc_med_io=<alloc_med_io>,
+alloc_slow_io=<alloc_slow_io>,
+crop_io=<crop_io>,
+dpm_rpm_ratio_io=<dpm_rpm_ratio_io>,
+g_area_io=<g_area_io>,
+g_grow_io=<g_grow_io>,
+g_root_io=<g_root_io>,
+g_wood_io=<g_wood_io>,
+lai_max_io=<lai_max_io>,
+lai_min_io=<lai_min_io>,
+retran_l_io=<retran_l_io>,
+retran_r_io=<retran_r_io>,
+/

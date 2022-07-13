@@ -1,0 +1,11 @@
+&jules_temp_fixes
+l_fix_moruses_roof_rad_coupling=<l_fix_moruses_roof_rad_coupling>,
+l_dtcanfix=<l_dtcanfix>,
+l_fix_ctile_orog=<l_fix_ctile_orog>,
+l_fix_ustar_dust=<l_fix_ustar_dust>,
+l_fix_alb_ice_thick=<l_fix_alb_ice_thick>,
+l_fix_albsnow_ts=<l_fix_albsnow_ts>,
+l_fix_wind_snow=<l_fix_wind_snow>,
+l_fix_osa_chloro=<l_fix_osa_chloro>,
+/
+

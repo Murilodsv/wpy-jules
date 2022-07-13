@@ -1,0 +1,5 @@
+# Soil characteristics for:        SLPI0001.dat
+# Source .CSV file used:           /home/d05/mvianna/py-jules/sim_db/soil/data_SLPI0001.csv
+# Created by gen_soil_props.py at: 2020-07-30 13:39:06.563392
+# b   hcap   sm_wilt   hcon  sm_crit  satcon sathh  sm_sat  albsoil
+1.3847E+01 1.2470E+06 2.9220E-01 2.1112E-01 3.8494E-01 1.0160E-03 3.0903E-01 4.5737E-01 0.13

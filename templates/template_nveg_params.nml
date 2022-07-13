@@ -1,0 +1,16 @@
+&jules_nvegparm
+albsnc_nvg_io=<albsnc_nvg_io>,
+albsnf_nvg_io=<albsnf_nvg_io>,
+albsnf_nvgl_io=<albsnf_nvgl_io>,
+albsnf_nvgu_io=<albsnf_nvgu_io>,
+catch_nvg_io=<catch_nvg_io>,
+ch_nvg_io=<ch_nvg_io>,
+emis_nvg_io=<emis_nvg_io>,
+gs_nvg_io=<gs_nvg_io>,
+infil_nvg_io=<infil_nvg_io>,
+vf_nvg_io=<vf_nvg_io>,
+z0_nvg_io=<z0_nvg_io>,
+z0hm_classic_nvg_io=<z0hm_classic_nvg_io>,
+z0hm_nvg_io=<z0hm_nvg_io>,
+/
+

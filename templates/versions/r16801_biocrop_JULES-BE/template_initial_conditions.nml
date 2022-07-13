@@ -1,0 +1,11 @@
+&jules_initial
+const_val=<const_val>,
+dump_file=<dump_file>,
+file=<file>,
+nvars=<nvars>,
+total_snow=<total_snow>,
+tpl_name=<tpl_name>,
+use_file=<use_file>,
+var=<var>,
+var_name=<var_name>,
+/

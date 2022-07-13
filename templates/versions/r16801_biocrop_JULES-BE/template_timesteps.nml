@@ -1,0 +1,10 @@
+&jules_time
+l_360=<l_360>,
+main_run_end=<main_run_end>,
+main_run_start=<main_run_start>,
+print_step=<print_step>,
+timestep_len=<timestep_len>,
+/
+&jules_spinup
+max_spinup_cycles=<max_spinup_cycles>,
+/

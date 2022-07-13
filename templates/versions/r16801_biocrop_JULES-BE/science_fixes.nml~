@@ -1,0 +1,10 @@
+&jules_temp_fixes
+l_fix_moruses_roof_rad_coupling=.false.,
+l_dtcanfix=.true.,
+l_fix_ctile_orog=.true.,
+l_fix_ustar_dust=.true.,
+l_fix_alb_ice_thick=.true.,
+l_fix_albsnow_ts=.true.,
+l_fix_wind_snow=.true.,
+/
+

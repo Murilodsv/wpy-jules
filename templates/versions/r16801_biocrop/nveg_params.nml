@@ -1,0 +1,16 @@
+&jules_nvegparm
+albsnc_nvg_io=0.4,0.8,0.8,0.8,
+albsnf_nvg_io=0.18,0.06,-1.0,0.75,
+albsnf_nvgl_io=0.16,0.06,0.03,0.75,
+albsnf_nvgu_io=0.2,0.15,0.8,0.75,
+catch_nvg_io=0.5,0.0,0.0,0.0,
+ch_nvg_io=280000.0,2.1100E+07,0.0,0.0,
+emis_nvg_io=1.0,1.0,1.0,1.0,
+gs_nvg_io=0.0,0.0,2.5E-03,1.0E+06,
+infil_nvg_io=0.1,0.0,0.5,0.0,
+vf_nvg_io=1.0,1.0,0.0,0.0,
+z0_nvg_io=1.0,3.0E-04,3.0E-04,1.0E-04,
+z0hm_classic_nvg_io=0.1,0.1,0.1,0.1,
+z0hm_nvg_io=0.1,0.1,0.1,0.1,
+/
+
