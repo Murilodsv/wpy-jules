@@ -1,4 +1,4 @@
-# wrappy-jules
+# wpy-jules
 Wrapper in python3 for JULES runs at site locations 
 
 ![framework](https://github.com/Murilodsv/wrappy-jules/blob/main/framework.png)
