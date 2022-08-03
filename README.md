@@ -51,3 +51,9 @@ In the above code the arguments represent:
 - the statistical index used as objective function: rmse (available indexers are calculated in [mperf.py](https://github.com/Murilodsv/wrappy-jules/blob/main/get_model_perf/mperf.py). If d, r2 or ef are selected objective function becomes = 1 - stat_index)
 - the target parameters to be calibrated, including max-min ranges: [calibration_setup_sla.csv](https://github.com/Murilodsv/wrappy-jules/blob/main/calibration_setup_sla.csv)
 - flag indicating calibration run: T
+
+### Publications using this repository:
+
+- Prudente Jr et al. (2022). Calibration and evaluation of JULES-crop for maize in Brazil. Agronomy Journal. https://doi.org/10.1002/agj2.21066
+
+- Vianna et al. (2022). Improving the representation of sugarcane crop in the JULES model for climate impact assessment. Global Change Biology Bioenergy. https://doi.org/10.1111/gcbb.12989
