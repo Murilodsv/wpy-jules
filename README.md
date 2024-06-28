@@ -57,3 +57,5 @@ In the above code the arguments represent:
 - Prudente Jr et al. (2022). Calibration and evaluation of JULES-crop for maize in Brazil. Agronomy Journal. https://doi.org/10.1002/agj2.21066
 
 - Vianna et al. (2022). Improving the representation of sugarcane crop in the JULES model for climate impact assessment. Global Change Biology Bioenergy. https://doi.org/10.1111/gcbb.12989
+  
+- Prudente Jr et al. (2024). Application of the JULES-crop model and agrometeorological indicators for forecasting off-season maize yield in Brazil. Heliyon. https://doi.org/10.1016/j.heliyon.2024.e29555
